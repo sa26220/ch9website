@@ -1,0 +1,19 @@
+/* This code sets the page's background to violet. */
+body {
+    background-color: violet;
+}
+
+/* This code sets the font color of the word "Hello", which is in h1 style, to blue. */
+h1 {
+    color: blue;
+}
+
+/* This code sets the background color to change from violet to blueviolet when hovered over. */
+body:hover {
+    background-color: blueviolet;
+}
+
+/* This code sets the font color of h1 from blue to white when hovered over. */
+h1:hover {
+    color: white;
+}
